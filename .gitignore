@@ -15,3 +15,13 @@
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
+source/Assembly-CSharp-Editor-vs.csproj
+source/Assembly-CSharp-Editor.csproj
+source/Assets/UnityVS.meta
+source/Assets/UnityVS/Editor.meta
+source/UnityVS.source.CSharp.Editor.csproj
+source/UnityVS.source.CSharp.Plugins.csproj
+source/UnityVS.source.CSharp.csproj
+source/UnityVS.source.sln
+source/source-csharp.sln
+source/source.sln
