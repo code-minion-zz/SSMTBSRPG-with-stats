@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerStats.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\cardflipper\CardFlipPrototype\Assets\PackAnimator.cs">
     <Files>
-      <File FileName="Assets\scripts\PlayerStats.cs" Line="11" Column="27" />
+      <File FileName="..\..\cardflipper\CardFlipPrototype\Assets\PackAnimator.cs" Line="54" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
